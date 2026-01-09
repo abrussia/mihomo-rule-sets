@@ -122,10 +122,6 @@ payload:
   # Rust
   - PROCESS-NAME-REGEX,(?i).*RustClient.*
 
-  # Escape from Tarkov
-  - PROCESS-NAME,BsgLauncher.exe
-  - PROCESS-NAME-REGEX,EscapeFromTarkov.*
-
   # Arena Breakout: Infinite
   - PROCESS-NAME,UAGame.exe
 
@@ -162,3 +158,4 @@ payload:
   # FaceIT website
   - DOMAIN-SUFFIX,faceit.com
   - DOMAIN-SUFFIX,faceit-cdn.net
+
