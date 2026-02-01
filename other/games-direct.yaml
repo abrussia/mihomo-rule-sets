@@ -42,6 +42,9 @@ payload:
   # FragPunk
   - PROCESS-NAME,FragPunk.exe
 
+  # Factorio
+  - PROCESS-NAME,factorio.exe
+
   # Dead by Daylight
   - PROCESS-NAME-REGEX,DeadByDaylight.*
 
@@ -158,4 +161,5 @@ payload:
   # FaceIT website
   - DOMAIN-SUFFIX,faceit.com
   - DOMAIN-SUFFIX,faceit-cdn.net
+
 
