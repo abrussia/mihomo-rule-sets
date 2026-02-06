@@ -1,4 +1,7 @@
 payload:
+  # Steam
+  - PROCESS-NAME,steam.exe
+  
   # Unreal Engine games
   - PROCESS-NAME-REGEX,(?i).*Win64-Shipping.*
 
@@ -161,5 +164,6 @@ payload:
   # FaceIT website
   - DOMAIN-SUFFIX,faceit.com
   - DOMAIN-SUFFIX,faceit-cdn.net
+
 
 
