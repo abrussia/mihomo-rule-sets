@@ -50,6 +50,9 @@ payload:
 
   # Factorio
   - PROCESS-NAME,factorio.exe
+  
+  # Fallout 76
+  - PROCESS-NAME,Fallout76.exe
 
   # Dead by Daylight
   - PROCESS-NAME-REGEX,DeadByDaylight.*
@@ -167,6 +170,7 @@ payload:
   # FaceIT website
   - DOMAIN-SUFFIX,faceit.com
   - DOMAIN-SUFFIX,faceit-cdn.net
+
 
 
 
