@@ -137,6 +137,9 @@ payload:
   # Arena Breakout: Infinite
   - PROCESS-NAME,UAGame.exe
 
+  # War Thunder 
+  - PROCESS-NAME,aces.exe
+
   # Marvel Rivals
   - PROCESS-NAME,MarvelRivals_Launcher.exe
   - PROCESS-NAME,Marvel-Win64-Shipping.exe
