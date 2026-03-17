@@ -139,6 +139,7 @@ payload:
 
   # War Thunder 
   - PROCESS-NAME,aces.exe
+  - PROCESS-NAME,launcher.exe
 
   # Marvel Rivals
   - PROCESS-NAME,MarvelRivals_Launcher.exe
