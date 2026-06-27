@@ -4,6 +4,9 @@ payload:
   - PROCESS-NAME,EADesktop.exe
   - PROCESS-NAME,EACefSubProcess.exe
   - PROCESS-NAME,EABackgroundService.exe
+
+   # Battlefield 1
+   - PROCESS-NAME,bf1.exe
   
   # Unreal Engine games
   - PROCESS-NAME-REGEX,(?i).*Win64-Shipping.*
