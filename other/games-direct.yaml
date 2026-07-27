@@ -5,6 +5,9 @@ payload:
   - PROCESS-NAME,EACefSubProcess.exe
   - PROCESS-NAME,EABackgroundService.exe
 
+   # Stalzone
+   - PROCESS-NAME,stalzonew.exe
+   
    # Battlefield 1
    - PROCESS-NAME,bf1.exe
   
